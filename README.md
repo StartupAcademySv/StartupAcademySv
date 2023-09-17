@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StartupAcademySv
 - 👀 I’m interested in data analytics for Business
 - 🌱 I’m currently learning R and Anaconda
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate onadvanced segmentation
 - 📫 How to reach me ...
 
 <!---
